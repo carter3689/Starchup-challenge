@@ -1,0 +1,26 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 2,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "customer": 1,
+    "order": 1,
+    "business": 1
+  },
+  "models": {
+    "User": {
+      "1": "{\"password\":\"$2a$10$TNtSuGIU/8xp0pbuQMEqAe092tGLCqcns4ua3De6OcTtUqi7Oo2JW\",\"email\":\"foo@bar.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "Mf1smdLCTSpS3TvvIyup2kAAGReIBfL4CNkTHTmb0DSeWdEMTaGnjAw7lEdCY9Ev": "{\"id\":\"Mf1smdLCTSpS3TvvIyup2kAAGReIBfL4CNkTHTmb0DSeWdEMTaGnjAw7lEdCY9Ev\",\"ttl\":1209600,\"created\":\"2016-09-16T06:15:49.657Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "customer": {},
+    "order": {},
+    "business": {}
+  }
+}
